@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #f5f2f5;
+    background: #e3cbe3;
     padding: 0;
     margin: 0;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     width: 65%;
     height: auto;
-    background: rgb(31, 38, 132);
+    background: rgb(241, 209, 241);
     margin: auto;
     margin-top: 5px;
     padding-bottom: 5px;
@@ -24,7 +24,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #5c15b8;
+    background-color: #9a82ba;
     border: 1px solid gainsboro;
 }
 
@@ -42,7 +42,7 @@ nav li a {
 
 nav li a:hover {
     opacity: 0.9;
-    background-color: #111924;
+    background-color: #598ed7;
 }
 
 article {
@@ -50,7 +50,7 @@ article {
     height: auto;
     border-radius: 3px;
     margin: 5px 5px 5px 5px;
-    border: 1px solid gainsboro;
+    border: 2px solid rgb(2, 2, 2);
     clear: both;
 }
 
@@ -64,7 +64,7 @@ article .konten {
     height: auto;
     margin: 5px 5px 5px 5px;
     border-radius: 3px;
-    border: 1px solid gainsboro;
+    border: 1px solid rgb(177, 15, 209);
     float: left;
 }
 
@@ -73,7 +73,7 @@ article .isi {
     height: auto;
     margin: 5px 5px 5px 5px;
     border-radius: 3px;
-    border: 1px solid gainsboro;
+    border: 1px solid rgb(177, 15, 209);
     float: left;
 }
 
@@ -107,7 +107,7 @@ article .konten .judul a {
     margin-left: 5px;
     text-decoration: none;
     font-size: x-large;
-    color: #020101;
+    color: #140112;
 }
 
 article .konten a:hover {
@@ -121,7 +121,7 @@ footer {
     text-align: center;
     margin: 5px 5px 5px 5px;
     border-radius: 3px;
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 4px solid rgb(0, 0, 0);
     padding-top: 15px;
     padding-bottom: 15px;
 }
